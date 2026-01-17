@@ -10,3 +10,10 @@ const amit = {
   interests: ["Backend Systems", "AI Solutions", "DevOps"],
   languages: ["English", "Hindi", "Marathi", "Tamil", "Japanese (Learning)"]
 };
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amitlaxman&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitlaxman&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
+</p>
