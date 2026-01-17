@@ -10,7 +10,7 @@ const amit = {
   interests: ["Backend Systems", "AI Solutions", "DevOps"],
   languages: ["English", "Hindi", "Marathi", "Tamil", "Japanese (Learning)"]
 };
-
+```
 ### GitHub Stats
 
 <p align="center">
